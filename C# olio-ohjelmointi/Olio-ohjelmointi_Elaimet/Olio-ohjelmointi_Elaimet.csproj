@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Olio_ohjelmointi_Elaimet</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Olio-ohjelmointi_Elaimet\**" />
+    <EmbeddedResource Remove="Olio-ohjelmointi_Elaimet\**" />
+    <None Remove="Olio-ohjelmointi_Elaimet\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Olio-ohjelmointi_Elaimet\LuokkaKirjasto\LuokkaKirjasto.csproj" />
+  </ItemGroup>
+
+</Project>

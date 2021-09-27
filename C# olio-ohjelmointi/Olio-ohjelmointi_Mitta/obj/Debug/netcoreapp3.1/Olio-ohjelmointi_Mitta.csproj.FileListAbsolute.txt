@@ -1,0 +1,14 @@
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.exe
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.deps.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.runtimeconfig.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.runtimeconfig.dev.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.csproj.AssemblyReference.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.AssemblyInfoInputs.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.AssemblyInfo.cs
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.csproj.CoreCompileInputs.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Mitta\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Mitta.genruntimeconfig.cache

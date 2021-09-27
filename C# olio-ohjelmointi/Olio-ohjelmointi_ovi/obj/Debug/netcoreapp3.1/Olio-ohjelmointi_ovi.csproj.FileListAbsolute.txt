@@ -1,0 +1,13 @@
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.exe
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.deps.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.runtimeconfig.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi_ovi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_ovi.genruntimeconfig.cache

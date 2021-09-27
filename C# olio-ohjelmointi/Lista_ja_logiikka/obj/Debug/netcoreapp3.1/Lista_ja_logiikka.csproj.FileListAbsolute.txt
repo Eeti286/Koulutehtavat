@@ -1,0 +1,17 @@
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\Lista_ja_logiikka.exe
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\Lista_ja_logiikka.deps.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\Lista_ja_logiikka.runtimeconfig.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\Lista_ja_logiikka.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\Lista_ja_logiikka.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\Lista_ja_logiikka.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\LuokkaKirjasto.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\bin\Debug\netcoreapp3.1\LuokkaKirjasto.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.csproj.CopyComplete
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Lista_ja_logiikka\obj\Debug\netcoreapp3.1\Lista_ja_logiikka.genruntimeconfig.cache

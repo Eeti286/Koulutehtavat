@@ -1,0 +1,14 @@
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.exe
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.deps.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.runtimeconfig.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.runtimeconfig.dev.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.csproj.AssemblyReference.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.AssemblyInfoInputs.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.AssemblyInfo.cs
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.csproj.CoreCompileInputs.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_musiikkikappale\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_musiikkikappale.genruntimeconfig.cache

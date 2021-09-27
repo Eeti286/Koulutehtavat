@@ -1,0 +1,17 @@
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.exe
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.deps.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.runtimeconfig.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.runtimeconfig.dev.json
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.AssemblyInfoInputs.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.AssemblyInfo.cs
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.csproj.CoreCompileInputs.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.genruntimeconfig.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.csproj.AssemblyReference.cache
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\LuokkaKirjasto.dll
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\bin\Debug\netcoreapp3.1\LuokkaKirjasto.pdb
+C:\Users\eerik\source\repos\Olio-ohjelmointi_Elaimet\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Elaimet.csproj.CopyComplete

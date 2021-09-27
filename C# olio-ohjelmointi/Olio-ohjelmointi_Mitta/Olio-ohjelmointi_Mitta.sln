@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olio-ohjelmointi_Mitta", "Olio-ohjelmointi_Mitta.csproj", "{7913D6FF-D4E4-4D11-96D6-8916587DA420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7913D6FF-D4E4-4D11-96D6-8916587DA420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7913D6FF-D4E4-4D11-96D6-8916587DA420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7913D6FF-D4E4-4D11-96D6-8916587DA420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7913D6FF-D4E4-4D11-96D6-8916587DA420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C2B94C-53ED-486D-8C51-2EBFD4B6DC17}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\bin\Debug\netcoreapp3.1\Tehtava 13.exe
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\bin\Debug\netcoreapp3.1\Tehtava 13.deps.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\bin\Debug\netcoreapp3.1\Tehtava 13.runtimeconfig.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\bin\Debug\netcoreapp3.1\Tehtava 13.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\bin\Debug\netcoreapp3.1\Tehtava 13.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\bin\Debug\netcoreapp3.1\Tehtava 13.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava_13.Form1.resources
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava_13.Properties.Resources.resources
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.csproj.GenerateResource.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 13\obj\Debug\netcoreapp3.1\Tehtava 13.genruntimeconfig.cache

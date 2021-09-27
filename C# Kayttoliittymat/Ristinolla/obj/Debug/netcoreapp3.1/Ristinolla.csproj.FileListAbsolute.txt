@@ -1,0 +1,34 @@
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.exe
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.deps.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.runtimeconfig.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.Form1.resources
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.GenerateResource.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.genruntimeconfig.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.Properties.Resources.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.exe
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.deps.json
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.runtimeconfig.json
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.runtimeconfig.dev.json
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.dll
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.pdb
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.AssemblyReference.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.Form1.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.Properties.Resources.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.GenerateResource.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.AssemblyInfoInputs.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.AssemblyInfo.cs
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.dll
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.pdb
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\Ika.exe
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\Ika.deps.json
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\Ika.runtimeconfig.json
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\Ika.runtimeconfig.dev.json
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\Ika.dll
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\Ika.pdb
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\LuokkaKirjasto.dll
+C:\Users\eerik\source\repos\Ika\bin\Debug\netcoreapp3.1\LuokkaKirjasto.pdb
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.csproj.AssemblyReference.cache
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.AssemblyInfoInputs.cache
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.AssemblyInfo.cs
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.csproj.CoreCompileInputs.cache
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.csproj.CopyComplete
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.dll
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.pdb
+C:\Users\eerik\source\repos\Ika\obj\Debug\netcoreapp3.1\Ika.genruntimeconfig.cache

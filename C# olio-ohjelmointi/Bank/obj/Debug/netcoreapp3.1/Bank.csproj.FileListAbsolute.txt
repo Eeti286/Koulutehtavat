@@ -1,0 +1,28 @@
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.AssemblyReference.cache
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Koulu\Amis\Koulutehtavat\C# olio-ohjelmointi\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

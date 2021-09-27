@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tehtavat 07/1.0.0": {
+        "runtime": {
+          "Tehtavat 07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tehtavat 07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

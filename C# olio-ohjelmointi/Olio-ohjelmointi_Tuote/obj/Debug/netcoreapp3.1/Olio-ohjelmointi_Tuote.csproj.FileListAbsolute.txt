@@ -1,0 +1,13 @@
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.exe
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.deps.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.runtimeconfig.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\bin\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.dll
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmointi_Tuote\obj\Debug\netcoreapp3.1\Olio-ohjelmointi_Tuote.genruntimeconfig.cache

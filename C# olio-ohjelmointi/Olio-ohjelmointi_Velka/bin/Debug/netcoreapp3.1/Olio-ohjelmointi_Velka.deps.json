@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Olio-ohjelmointi_Velka/1.0.0": {
+        "runtime": {
+          "Olio-ohjelmointi_Velka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Olio-ohjelmointi_Velka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

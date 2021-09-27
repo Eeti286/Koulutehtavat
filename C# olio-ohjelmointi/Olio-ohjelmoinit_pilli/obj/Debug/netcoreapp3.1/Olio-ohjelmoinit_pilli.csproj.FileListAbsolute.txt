@@ -1,0 +1,13 @@
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\bin\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.exe
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\bin\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.deps.json
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\bin\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.runtimeconfig.json
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\bin\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\bin\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.dll
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\bin\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.dll
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.pdb
+C:\Koulu\Amis\C#\Olio-ohjelmoinit_pilli\obj\Debug\netcoreapp3.1\Olio-ohjelmoinit_pilli.genruntimeconfig.cache

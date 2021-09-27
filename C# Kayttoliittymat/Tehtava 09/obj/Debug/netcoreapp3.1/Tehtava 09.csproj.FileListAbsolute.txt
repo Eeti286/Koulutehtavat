@@ -1,0 +1,16 @@
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\bin\Debug\netcoreapp3.1\Tehtava 09.exe
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\bin\Debug\netcoreapp3.1\Tehtava 09.deps.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\bin\Debug\netcoreapp3.1\Tehtava 09.runtimeconfig.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\bin\Debug\netcoreapp3.1\Tehtava 09.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\bin\Debug\netcoreapp3.1\Tehtava 09.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\bin\Debug\netcoreapp3.1\Tehtava 09.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava_09.Form1.resources
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.csproj.GenerateResource.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 09\obj\Debug\netcoreapp3.1\Tehtava 09.genruntimeconfig.cache

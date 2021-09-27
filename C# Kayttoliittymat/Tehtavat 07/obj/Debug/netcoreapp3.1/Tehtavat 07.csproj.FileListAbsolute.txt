@@ -1,0 +1,16 @@
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\bin\Debug\netcoreapp3.1\Tehtavat 07.exe
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\bin\Debug\netcoreapp3.1\Tehtavat 07.deps.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\bin\Debug\netcoreapp3.1\Tehtavat 07.runtimeconfig.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\bin\Debug\netcoreapp3.1\Tehtavat 07.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\bin\Debug\netcoreapp3.1\Tehtavat 07.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\bin\Debug\netcoreapp3.1\Tehtavat 07.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat_07.Form1.resources
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.csproj.GenerateResource.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtavat 07\obj\Debug\netcoreapp3.1\Tehtavat 07.genruntimeconfig.cache

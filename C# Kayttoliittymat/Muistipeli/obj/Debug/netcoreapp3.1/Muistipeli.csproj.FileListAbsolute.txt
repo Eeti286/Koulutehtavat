@@ -1,0 +1,17 @@
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\bin\Debug\netcoreapp3.1\Muistipeli.exe
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\bin\Debug\netcoreapp3.1\Muistipeli.deps.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\bin\Debug\netcoreapp3.1\Muistipeli.runtimeconfig.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\bin\Debug\netcoreapp3.1\Muistipeli.runtimeconfig.dev.json
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\bin\Debug\netcoreapp3.1\Muistipeli.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\bin\Debug\netcoreapp3.1\Muistipeli.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.csproj.AssemblyReference.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.Form1.resources
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.csproj.GenerateResource.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.AssemblyInfoInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.AssemblyInfo.cs
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.dll
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.pdb
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.genruntimeconfig.cache
+C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Muistipeli\obj\Debug\netcoreapp3.1\Muistipeli.Properties.Resources.resources
