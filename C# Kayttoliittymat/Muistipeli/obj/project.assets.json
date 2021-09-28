@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Koulu\\Amis\\C#\\Käyttöliittymät\\Kayttoliittymat\\Muistipeli\\Muistipeli.csproj",
+      "projectUniqueName": "C:\\Koulu\\Amis\\Koulutehtavat\\C# Kayttoliittymat\\Muistipeli\\Muistipeli.csproj",
       "projectName": "Muistipeli",
-      "projectPath": "C:\\Koulu\\Amis\\C#\\Käyttöliittymät\\Kayttoliittymat\\Muistipeli\\Muistipeli.csproj",
+      "projectPath": "C:\\Koulu\\Amis\\Koulutehtavat\\C# Kayttoliittymat\\Muistipeli\\Muistipeli.csproj",
       "packagesPath": "C:\\Users\\eerik\\.nuget\\packages\\",
-      "outputPath": "C:\\Koulu\\Amis\\C#\\Käyttöliittymät\\Kayttoliittymat\\Muistipeli\\obj\\",
+      "outputPath": "C:\\Koulu\\Amis\\Koulutehtavat\\C# Kayttoliittymat\\Muistipeli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

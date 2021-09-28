@@ -13,6 +13,8 @@ namespace Ristinolla
 {
     public partial class Form1 : Form
     {
+        Form2 form2 = new Form2();
+
         List<Button> buttonsList = new List<Button>();
 
         bool pelaaja;
@@ -161,14 +163,14 @@ namespace Ristinolla
             {
                 pelaajaA_pisteet++;
                 pelaajaA_pisteet_label.Text = pelaajaA_pisteet.ToString();
-                voitto_label.Text = "PelaajaA voitti";
+                voitto_label.Text = form2.Pelaaja1 + "voitti";
                 Pelinjatkaminen();
             }
             else if (buttonsList[i].Tag.ToString() == "2")
             {
                 pelaajaB_pisteet++;
                 pelaajaB_pisteet_label.Text = pelaajaB_pisteet.ToString();
-                voitto_label.Text = "PelaajaB voitti";
+                voitto_label.Text = form2.Pelaaja2 + "voitti";
                 Pelinjatkaminen();
             }
         }
@@ -202,6 +204,8 @@ namespace Ristinolla
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            label1.Text = form2.Pelaaja1;
+            label2.Text = form2.Pelaaja2;
             Box.SendToBack();
         }
 
