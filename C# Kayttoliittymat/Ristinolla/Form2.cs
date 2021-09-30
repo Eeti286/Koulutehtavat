@@ -27,7 +27,7 @@ namespace Ristinolla
             if (PelaajaA_textBox.Text != "" && PelaajaB_textBox.Text != "")
             {
                 Pelaaja1 = PelaajaA_textBox.Text;
-                Pelaaja1 = PelaajaB_textBox.Text;
+                Pelaaja2 = PelaajaB_textBox.Text;
 
                 this.Hide();
                 Form1 Main = new Form1();

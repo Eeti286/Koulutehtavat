@@ -13,7 +13,6 @@ namespace Ristinolla
 {
     public partial class Form1 : Form
     {
-        Form2 form2 = new Form2();
 
         List<Button> buttonsList = new List<Button>();
 
@@ -159,6 +158,8 @@ namespace Ristinolla
 
         private void PisteidenTarkistus(int i)
         {
+            Form2 form2 = new Form2();
+
             if (buttonsList[i].Tag.ToString() == "1")
             {
                 pelaajaA_pisteet++;
@@ -204,9 +205,10 @@ namespace Ristinolla
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            Form2 form2 = new Form2();
+
             label1.Text = form2.Pelaaja1;
             label2.Text = form2.Pelaaja2;
-            Box.SendToBack();
         }
 
         private void peli_maara_trackBar_Scroll(object sender, EventArgs e)

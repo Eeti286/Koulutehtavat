@@ -16,3 +16,21 @@ C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 15\obj\Debug\netcore
 C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava_15.Properties.Resources.resources
 C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava_15.plus_Forms.resources
 C:\Koulu\Amis\C#\Käyttöliittymät\Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava_15.aloitus_Forms.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\bin\Debug\netcoreapp3.1\Tehtava 15.exe
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\bin\Debug\netcoreapp3.1\Tehtava 15.deps.json
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\bin\Debug\netcoreapp3.1\Tehtava 15.runtimeconfig.json
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\bin\Debug\netcoreapp3.1\Tehtava 15.runtimeconfig.dev.json
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\bin\Debug\netcoreapp3.1\Tehtava 15.dll
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\bin\Debug\netcoreapp3.1\Tehtava 15.pdb
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.csproj.AssemblyReference.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava_15.aloitus_Forms.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava_15.plus_Forms.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava_15.Properties.Resources.resources
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.csproj.GenerateResource.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.AssemblyInfoInputs.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.AssemblyInfo.cs
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.dll
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.pdb
+C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Tehtava 15\obj\Debug\netcoreapp3.1\Tehtava 15.genruntimeconfig.cache

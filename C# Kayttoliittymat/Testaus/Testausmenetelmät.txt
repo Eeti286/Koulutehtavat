@@ -1,0 +1,22 @@
+1. https://www.javatpoint.com/software-engineering-v-model
+
+2. Staattisessa testauksessa ohjelmaa ei suoriteta vaan ohjelmaa katsomalla yritetään
+löytää virheitä. Kun taas dynaamisessa testauksessa ohjelmaa suorittamalla ja syöttämällä 
+eri syötteitä yritetään löytää virheitä.
+
+3. Regressiotestaus on menetelmä missä suljetaan toimiva ohjelman osa ja katsotaan
+miten ohjelma reagoi siihen.
+
+Käytettävyystestauksessa ohjelma annetaan asiakkaalle testattavaksi, jonka jälkeen
+asiakas raportoi ohjelman käytettävyydestä ammattilaiselle.
+
+Tutkiva testaus on tapa jossa testejä luodaan aiempien testituloksien pohjalta, eli niitä 
+ei suunnitella etukäteen.
+
+4. 
+Musta laatikko tekniikkaa voidaan hyödyntää kaikkien testaustasojen testien suunnitteluun.
+
+Lasilaatikko tekniikka on tarkoitettu sisäisen koodin tutkintaan, eli komponentteihin
+ja integraatiotesteihin.
+
+5. Testauksen automatisointi tarkoittaa ohjelman testausta sitä varten kehitetyllä ohjelmalla.
