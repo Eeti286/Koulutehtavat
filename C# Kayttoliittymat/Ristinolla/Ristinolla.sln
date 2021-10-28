@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ristinolla", "Ristinolla.csproj", "{ADAB778C-52AD-438B-847A-1E4E29989F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ristinolla", "Ristinolla.csproj", "{ADAB778C-52AD-438B-847A-1E4E29989F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RistinollaYksikkoTestaus", "RistinollaYksikkoTestaus\RistinollaYksikkoTestaus.csproj", "{7A6C7711-E89D-4A7D-B082-F048021FE01C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ADAB778C-52AD-438B-847A-1E4E29989F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADAB778C-52AD-438B-847A-1E4E29989F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADAB778C-52AD-438B-847A-1E4E29989F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6C7711-E89D-4A7D-B082-F048021FE01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6C7711-E89D-4A7D-B082-F048021FE01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6C7711-E89D-4A7D-B082-F048021FE01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6C7711-E89D-4A7D-B082-F048021FE01C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

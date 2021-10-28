@@ -32,4 +32,3 @@ C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.
 C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.dll
 C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.pdb
 C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.genruntimeconfig.cache
-C:\Koulu\Amis\Koulutehtavat\C# Kayttoliittymat\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.Form2.resources

@@ -35,6 +35,7 @@ namespace Ristinolla
             int kierros = 0;
             int x = 0;
             int y = 10;
+            jakojaannosmittari = 0;
 
             voitto_label.Text = "";
             buttonsList.Clear();
@@ -158,20 +159,19 @@ namespace Ristinolla
 
         private void PisteidenTarkistus(int i)
         {
-            Form2 form2 = new Form2();
 
             if (buttonsList[i].Tag.ToString() == "1")
             {
                 pelaajaA_pisteet++;
                 pelaajaA_pisteet_label.Text = pelaajaA_pisteet.ToString();
-                voitto_label.Text = form2.Pelaaja1 + "voitti";
+                voitto_label.Text = "PelaajaA voitti";
                 Pelinjatkaminen();
             }
             else if (buttonsList[i].Tag.ToString() == "2")
             {
                 pelaajaB_pisteet++;
                 pelaajaB_pisteet_label.Text = pelaajaB_pisteet.ToString();
-                voitto_label.Text = form2.Pelaaja2 + "voitti";
+                voitto_label.Text = "PelaajaB voitti";
                 Pelinjatkaminen();
             }
         }
@@ -205,10 +205,8 @@ namespace Ristinolla
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-
-            label1.Text = form2.Pelaaja1;
-            label2.Text = form2.Pelaaja2;
+            label1.Text = "PelaajaA";
+            label2.Text = "PelaajaB";
         }
 
         private void peli_maara_trackBar_Scroll(object sender, EventArgs e)

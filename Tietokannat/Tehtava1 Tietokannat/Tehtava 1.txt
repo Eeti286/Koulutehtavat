@@ -1,0 +1,14 @@
+1. Tietokanta on paikka missä säilytetään tietoa.
+2. Ohjelma, jolla voi käsitellä, hallita, hakea ja tallentaa tietokannan tietoa.
+3. Tietokantoja käytetään että tiedot saa helposti hallittavaa ja selkeästi käsiteltävään muotoon.
+4. Kirjautunut Supla nimiseen palveluun
+5. Tikape-k20.mooc.fi/luku-1/1
+6. Edgar F.Codd
+7. Kenttä on pieni osio mistä koostuu rivejä, taulukkoja ja lopulta koko tietokanta. 
+   Esimerkiksi jos haluan tallentaa kaikki maailman hedelmät tietokantaan minulla olisi
+   hedelmäkenttä mihin tallentaisi hedelmät.
+8. Kentistä koostuu rivejä eli tietueita. Esimerkiksi Kentät Etunimi ja Sukunimi koostaa tietuen.
+9. Perusavain yksilöi jokaisen tiedon. Esimerkiksi ensimmäisellä tallennetulla hedelmällä
+   voisi olla id 1 ja toisella taas id 2.
+10.Viiteavaimen avulla tietoja saa ohjattua haluamiin kategorioihin.
+
