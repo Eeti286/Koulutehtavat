@@ -1,0 +1,9 @@
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\obj\Debug\Autokauppa.view.MainMenu.resources
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\obj\Debug\Autokauppa.csproj.GenerateResource.cache
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\obj\Debug\Autokauppa.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\bin\Debug\Auto.exe.config
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\bin\Debug\Auto.exe
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\bin\Debug\Auto.pdb
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\obj\Debug\Auto.exe
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\obj\Debug\Auto.pdb
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\2. autotehtava\Auto\obj\Debug\Autokauppa.csproj.AssemblyReference.cache

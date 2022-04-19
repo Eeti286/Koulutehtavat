@@ -1,0 +1,10 @@
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\bin\Debug\_1.Opiskelija_ja_opiskelijaryhmä.exe.config
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\bin\Debug\_1.Opiskelija_ja_opiskelijaryhmä.exe
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\bin\Debug\_1.Opiskelija_ja_opiskelijaryhmä.pdb
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\_1.Opiskelija_ja_opiskelijaryhmä.Form1.resources
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\_1.Opiskelija_ja_opiskelijaryhmä.Properties.Resources.resources
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\1. Opiskelija ja opiskelijaryhmä.csproj.GenerateResource.cache
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\1. Opiskelija ja opiskelijaryhmä.csproj.CoreCompileInputs.cache
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\_1.Opiskelija_ja_opiskelijaryhmä.exe
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\_1.Opiskelija_ja_opiskelijaryhmä.pdb
+C:\Koulu\Amis\Koulutehtavat\Tietokantojen hyödyntäminen\1. Opiskelija ja opiskelijaryhmä\obj\Debug\1. Opiskelija ja opiskelijaryhmä.csproj.AssemblyReference.cache
