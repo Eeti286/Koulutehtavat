@@ -1,0 +1,20 @@
+1. SELECT nimi FROM Elokuvat
+2. SELECT nimi, vuosi FROM Elokuvat
+3. SELECT nimi FROM Elokuvat WHERE vuosi == 1940
+4. SELECT nimi FROM Elokuvat WHERE vuosi < 1950
+5. SELECT nimi FROM Elokuvat WHERE vuosi BETWEEN 1940 AND 1950
+6. SELECT nimi FROM Elokuvat WHERE vuosi < 1950 OR vuosi > 1980
+7. SELECT nimi FROM Elokuvat WHERE vuosi != 1940
+8. SELECT nimi FROM Elokuvat ORDER BY nimi ASC
+9. SELECT nimi FROM Elokuvat ORDER BY nimi DESC
+10. SELECT nimi, vuosi FROM Elokuvat ORDER BY vuosi DESC, nimi ASC
+11. SELECT DISTINCT etunimi FROM Nimet
+12. SELECT DISTINCT etunimi, sukunimi FROM Nimet
+13. SELECT COUNT(nimi) FROM Tyontekijat
+14. SELECT COUNT(palkka) From Tyontekijat WHERE palkka > 2000
+15. SELECT SUM(palkka) FROM Tyontekijat 
+16. SELECT MAX(palkka) FROM Tyontekijat 
+17. SELECT COUNT(DISTINCT yritys) FROM Tyontekijat;
+18. SELECT DISTINCT yritys, COUNT(yritys) FROM Tyontekijat GROUP BY yritys
+19. SELECT DISTINCT yritys, MAX(palkka) FROM Tyontekijat GROUP BY yritys
+20. SELECT DISTINCT yritys, MAX(palkka) FROM Tyontekijat WHERE palkka >= 5000 GROUP BY yritys 

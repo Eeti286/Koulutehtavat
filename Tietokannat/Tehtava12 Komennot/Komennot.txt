@@ -1,0 +1,21 @@
+1. SMALLINT, INTEGER, BIGINT, NUMERIC ja DECIMAL
+2. Luku on suurempi kuin sille tarkoitettu alue
+3. Unsigned-luku ei ota muuta kuin positiivisia arvoja ja nollia, 
+   kun taas signed-luku ottaa myös negatiivisia
+4. Varchar kenttä voi muuttua kun taas Char kenttä ei voi
+5. Varbinary voit tallentaa binäärisiä tavujonoja
+6. 
+7. "PRIMARY KEY (ID)", "ID int NOT NULL PRIMARY KEY"
+8. Se yksilöi taulun sisältämät tietueet
+9. Sillä saadaan yhdistettyä taulujen tietoja toisiinsa
+10. "FOREIGN KEY (PersonID) REFERENCES Persons(PersonID)" 
+    Viite-eheyssäännöt estävät tietokannan käyttäjiä rikkomasta- 
+    toisiinsa liittyvien sarakkeiden välisiä yhteyksiä vahingossa.
+11. AUTO_INCREMENT antaa automaattisesti kentälle yksilöidyn numeron
+12. Se auttaa yksilöimään kenttiä ja tietoja
+
+Not Null: kenttä ei voi olla tyhjä
+Auto_increment: kenttään tulee automaattisesti yksilöity numero
+Default: Asettaa perus tiedon sarakkeelle 
+Zerofill: Täyttää kokonaisluvut nollilla, niin että sarakkeiden numeroissa-
+           on sama määrä numeroita
