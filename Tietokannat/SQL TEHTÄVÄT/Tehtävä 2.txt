@@ -1,0 +1,5 @@
+1. SELECT kirjan_nimi FROM kirjasto WHERE kustantaja = Docendo
+2. SELECT kirjan_nimi FROM kirjasto WHERE kustantaja != Docendo
+3. SELECT kirjan_nimi FROM kirjasto WHERE sivu_maara BETWEEN 200 AND 295
+4. SELECT kirjan_nimi FROM kirjasto WHERE kustantaja = Docendo AND vuosi = 2015
+5. SELECT kirjan_nimi FROM kirjasto WHERE vuosi >= 2015

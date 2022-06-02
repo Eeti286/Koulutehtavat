@@ -1,0 +1,12 @@
+1. 
+CREATE TABLE Kaupungit (
+	id int AUTO_INCREMENT, 
+	nimi varchar(50),
+	asukasluku int,
+	pinta-ala int
+	PRIMARY KEY (id)
+);
+2. SELECT nimi, asukasluku FROM kaupungit
+3. SELECT nimi, pinta-ala FROM kaupungit WHERE nimi = Jyväskylä
+4. SELECT nimi FROM kaupungit WHERE asukasluku < 200 000
+5. UPDATE kaupungit SET pinta-ala = 340 WHERE nimi = Tampere

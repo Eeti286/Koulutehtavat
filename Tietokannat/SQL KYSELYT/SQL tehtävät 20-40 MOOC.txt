@@ -1,0 +1,20 @@
+21. SELECT Pelaajat.nimi, Tulokset.tulos FROM Pelaajat INNER JOIN Tulokset ON Pelaajat.id = Tulokset.pelaaja_id
+22. SELECT Pelaajat.nimi, Tulokset.tulos FROM Pelaajat INNER JOIN Tulokset ON Pelaajat.id = Tulokset.pelaaja_id WHERE Pelaajat.id = 1
+23. SELECT Pelaajat.nimi, Tulokset.tulos FROM Pelaajat INNER JOIN Tulokset ON Pelaajat.id = Tulokset.pelaaja_id WHERE tulos > 250
+24. SELECT Pelaajat.nimi, Tulokset.tulos From Pelaajat INNER JOIN Tulokset ON pelaajat.id = pelaaja_id ORDER BY Tulokset.tulos DESC, Pelaajat.nimi ASC
+25. SELECT Pelaajat.nimi, MAX(Tulokset.tulos) From Pelaajat INNER JOIN Tulokset ON pelaajat.id = pelaaja_id GROUP BY Pelaajat.nimi
+26. SELECT Pelaajat.nimi, COUNT(Tulokset.tulos) From Pelaajat INNER JOIN Tulokset ON pelaajat.id = pelaaja_id GROUP BY Pelaajat.nimi
+27. SELECT Opiskelijat.nimi, Kurssit.nimi, Suoritukset.arvosana FROM Opiskelijat, Kurssit INNER JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id AND Kurssit.id = Suoritukset.kurssi_id
+28. SELECT Kurssit.nimi, Suoritukset.arvosana FROM Opiskelijat, Kurssit INNER JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id AND Kurssit.id = Suoritukset.kurssi_id WHERE Opiskelijat.id = 1
+29. SELECT Opiskelijat.nimi, Suoritukset.arvosana FROM Opiskelijat, Kurssit INNER JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id AND Kurssit.id = Suoritukset.kurssi_id WHERE Kurssit.nimi = "Ohpe"
+30. SELECT Opiskelijat.nimi, Kurssit.nimi, Suoritukset.arvosana FROM Opiskelijat, Kurssit INNER JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id AND Kurssit.id = Suoritukset.kurssi_id WHERE Suoritukset.arvosana = 4 OR Suoritukset.arvosana = 5
+31. SELECT Opiskelijat.nimi, COUNT(Suoritukset.opiskelija_id) FROM Opiskelijat, Kurssit INNER JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id AND Kurssit.id = Suoritukset.kurssi_id GROUP BY Opiskelijat.nimi
+32. SELECT DISTINCT Opiskelijat.nimi, MAX(Suoritukset.arvosana) FROM Opiskelijat INNER JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id GROUP BY Opiskelijat.nimi
+33. SELECT k1.nimi, k2.nimi FROM Lennot l INNER JOIN Kaupungit k1 ON l.mista_id = k1.id INNER JOIN Kaupungit k2 ON l.minne_id = k2.id
+34. SELECT k2.nimi FROM Lennot l INNER JOIN Kaupungit k1 ON k1.id = l.mista_id INNER JOIN Kaupungit k2 ON k2.id = l.minne_id WHERE k1.nimi = "Helsinki"
+35. SELECT nimi, COUNT(pelaaja_id) FROM Pelaajat LEFT JOIN Tulokset ON Pelaajat.id = Tulokset.pelaaja_id GROUP BY nimi
+36. SELECT nimi, COUNT(opiskelija_id) FROM Opiskelijat LEFT JOIN Suoritukset ON Opiskelijat.id = Suoritukset.opiskelija_id GROUP BY nimi
+37. SELECT nimi,COUNT(opiskelija_id) FROM Kurssit  LEFT JOIN Suoritukset ON Kurssit.id = Suoritukset.kurssi_id GROUP BY Kurssit.nimi
+38. SELECT nimi FROM Kurssit INNER JOIN Suoritukset ON Kurssit.id = Suoritukset.kurssi_id GROUP BY nimi
+39. SELECT nimi FROM Kurssit  LEFT JOIN Suoritukset ON Kurssit.id = Suoritukset.kurssi_id WHERE Suoritukset.kurssi_id IS NULL
+40. SELECT nimi, COUNT(mista_id) FROM Kaupungit LEFT JOIN Lennot ON Kaupungit.id = Lennot.mista_id GROUP BY nimi

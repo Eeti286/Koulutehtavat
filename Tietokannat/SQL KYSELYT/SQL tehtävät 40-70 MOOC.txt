@@ -1,0 +1,30 @@
+41. SELECT nimi, hinta * 2 FROM Tuotteet
+42. SELECT nimi, hinta FROM Tuotteet WHERE hinta % 2 = 0
+43. SELECT sana, LENGTH(sana) FROM Sanat
+44. SELECT sana FROM Sanat WHERE LENGTH(sana) < 6
+45. SELECT sana FROM Sanat ORDER BY length(sana), sana ASC
+46. select etunimi || ' ' || sukunimi AS First_name from Kayttajat
+47. SELECT SUM(LENGTH(sana)) FROM Sanat
+48. SELECT tuote, hinta * maara FROM Tilaukset
+49. SELECT SUM(hinta * maara) FROM Tilaukset
+50. SELECT nimi FROM Elokuvat WHERE CASE WHEN vuosi % 100 = 0 THEN vuosi % 400 = 0 ELSE vuosi % 4 = 0 END 
+51. SELECT nimi FROM Tuotteet WHERE (SELECT MIN(hinta) FROM Tuotteet) = hinta
+52. SELECT nimi FROM Tuotteet WHERE (SELECT MIN(hinta) FROM Tuotteet) * 2 >= hinta
+53. SELECT nimi FROM Tuotteet GROUP BY hinta HAVING COUNT(hinta) = 1
+54. SELECT sana FROM Sanat ORDER BY sana ASC LIMIT 1
+55. SELECT sana FROM (SELECT ROW_NUMBER() OVER (ORDER BY sana) AS RowNum, sana FROM Sanat) WHERE RowNum IN (2)
+56. SELECT sana FROM Sanat ORDER BY sana ASC LIMIT 1,-1
+57. SELECT sana FROM sanat WHERE sana LIKE "%i%"
+58. SELECT sana FROM Sanat WHERE sana LIKE "a%"
+59. SELECT sana FROM Sanat WHERE (SELECT LENGTH(sana)) = 5 AND sana LIKE '_p%'
+60. SELECT sana FROM Sanat WHERE LENGTH(sana) - LENGTH(REPLACE(sana,"a","")) = 2
+61. SELECT tunnus, COUNT(ryhma_id) FROM Kayttajat LEFT JOIN Oikeudet ON Kayttajat.id = Oikeudet.kayttaja_id GROUP BY tunnus
+62. SELECT nimi, COUNT(ryhma_id) FROM Ryhmat  LEFT JOIN Oikeudet ON Ryhmat.id = Oikeudet.ryhma_id GROUP BY nimi
+63. SELECT tunnus FROM Kayttajat  INNER JOIN Oikeudet ON Kayttajat.id = Oikeudet.kayttaja_id GROUP BY tunnus HAVING COUNT(kayttaja_id) > 1
+64. SELECT DISTINCT tunnus FROM Kayttajat INNER JOIN Oikeudet ON Kayttajat.id = Oikeudet.kayttaja_id WHERE Oikeudet.ryhma_id IN (SELECT Oikeudet.ryhma_id FROM Oikeudet WHERE Oikeudet.kayttaja_id = 1) 
+65. -
+66. SELECT sana FROM Sanat ORDER BY LOWER(sana) ASC
+67. SELECT nimi, hinta FROM Tuotteet ORDER BY hinta ASC, nimi ASC LIMIT 1
+68. SELECT DISTINCT t1.nimi, COUNT(t2.hinta) FROM Tuotteet t1, Tuotteet t2 WHERE t2.hinta + 1= t1.hinta OR t2.hinta - 1 = t1.hinta OR t2.hinta + 1 = t1.hinta + 1  GROUP BY t1.nimi 
+69. -
+70. -
