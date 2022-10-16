@@ -50,14 +50,15 @@ namespace APIproject
             this.GridPanel.AutoScroll = true;
             this.GridPanel.Location = new System.Drawing.Point(12, 44);
             this.GridPanel.Name = "GridPanel";
-            this.GridPanel.Size = new System.Drawing.Size(466, 697);
+            this.GridPanel.Size = new System.Drawing.Size(529, 697);
             this.GridPanel.TabIndex = 5;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(182, 21);
+            this.label2.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label2.Location = new System.Drawing.Point(245, 21);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(90, 20);
             this.label2.TabIndex = 6;
@@ -66,8 +67,9 @@ namespace APIproject
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(14, 21);
+            this.label3.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label3.Location = new System.Drawing.Point(77, 21);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(54, 20);
             this.label3.TabIndex = 7;
@@ -77,7 +79,7 @@ namespace APIproject
             // 
             this.TeamName.AutoSize = true;
             this.TeamName.Font = new System.Drawing.Font("Consolas", 15F, System.Drawing.FontStyle.Bold);
-            this.TeamName.Location = new System.Drawing.Point(480, 46);
+            this.TeamName.Location = new System.Drawing.Point(547, 46);
             this.TeamName.Name = "TeamName";
             this.TeamName.Size = new System.Drawing.Size(0, 29);
             this.TeamName.TabIndex = 8;
@@ -87,7 +89,7 @@ namespace APIproject
             // 
             this.TeamDescription.AutoSize = true;
             this.TeamDescription.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Italic);
-            this.TeamDescription.Location = new System.Drawing.Point(483, 78);
+            this.TeamDescription.Location = new System.Drawing.Point(550, 78);
             this.TeamDescription.Name = "TeamDescription";
             this.TeamDescription.Size = new System.Drawing.Size(0, 20);
             this.TeamDescription.TabIndex = 9;
@@ -97,7 +99,7 @@ namespace APIproject
             // 
             this.MatchInfoLabel.AutoSize = true;
             this.MatchInfoLabel.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold);
-            this.MatchInfoLabel.Location = new System.Drawing.Point(480, 156);
+            this.MatchInfoLabel.Location = new System.Drawing.Point(547, 156);
             this.MatchInfoLabel.Name = "MatchInfoLabel";
             this.MatchInfoLabel.Size = new System.Drawing.Size(131, 23);
             this.MatchInfoLabel.TabIndex = 10;
@@ -108,7 +110,7 @@ namespace APIproject
             // 
             this.NextMatch.AutoSize = true;
             this.NextMatch.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NextMatch.Location = new System.Drawing.Point(482, 187);
+            this.NextMatch.Location = new System.Drawing.Point(549, 187);
             this.NextMatch.Name = "NextMatch";
             this.NextMatch.Size = new System.Drawing.Size(0, 20);
             this.NextMatch.TabIndex = 11;
@@ -118,7 +120,7 @@ namespace APIproject
             // 
             this.Venue.AutoSize = true;
             this.Venue.Font = new System.Drawing.Font("Consolas", 10F);
-            this.Venue.Location = new System.Drawing.Point(481, 275);
+            this.Venue.Location = new System.Drawing.Point(548, 275);
             this.Venue.Name = "Venue";
             this.Venue.Size = new System.Drawing.Size(0, 20);
             this.Venue.TabIndex = 13;
@@ -128,7 +130,7 @@ namespace APIproject
             // 
             this.VenueInfo.AutoSize = true;
             this.VenueInfo.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold);
-            this.VenueInfo.Location = new System.Drawing.Point(479, 244);
+            this.VenueInfo.Location = new System.Drawing.Point(546, 244);
             this.VenueInfo.Name = "VenueInfo";
             this.VenueInfo.Size = new System.Drawing.Size(76, 23);
             this.VenueInfo.TabIndex = 12;
@@ -139,7 +141,7 @@ namespace APIproject
             // 
             this.MatchDate.AutoSize = true;
             this.MatchDate.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MatchDate.Location = new System.Drawing.Point(482, 207);
+            this.MatchDate.Location = new System.Drawing.Point(549, 207);
             this.MatchDate.Name = "MatchDate";
             this.MatchDate.Size = new System.Drawing.Size(0, 20);
             this.MatchDate.TabIndex = 14;
@@ -147,10 +149,10 @@ namespace APIproject
             // 
             // TeamLogo
             // 
-            this.TeamLogo.BackColor = System.Drawing.SystemColors.Control;
+            this.TeamLogo.BackColor = System.Drawing.Color.White;
             this.TeamLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.TeamLogo.Cursor = System.Windows.Forms.Cursors.No;
-            this.TeamLogo.Location = new System.Drawing.Point(863, 12);
+            this.TeamLogo.Location = new System.Drawing.Point(926, 12);
             this.TeamLogo.Name = "TeamLogo";
             this.TeamLogo.Size = new System.Drawing.Size(100, 100);
             this.TeamLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -160,13 +162,13 @@ namespace APIproject
             // roster
             // 
             this.roster.AccessibleName = "roster";
-            this.roster.BackColor = System.Drawing.SystemColors.Menu;
+            this.roster.BackColor = System.Drawing.Color.White;
             this.roster.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.roster.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.roster.ForeColor = System.Drawing.SystemColors.ControlText;
             this.roster.FormattingEnabled = true;
             this.roster.ItemHeight = 20;
-            this.roster.Location = new System.Drawing.Point(483, 361);
+            this.roster.Location = new System.Drawing.Point(550, 361);
             this.roster.Name = "roster";
             this.roster.Size = new System.Drawing.Size(480, 380);
             this.roster.TabIndex = 17;
@@ -174,8 +176,9 @@ namespace APIproject
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.White;
             this.label1.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(480, 327);
+            this.label1.Location = new System.Drawing.Point(547, 327);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(87, 23);
             this.label1.TabIndex = 18;
@@ -186,7 +189,8 @@ namespace APIproject
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(975, 753);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1036, 753);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.roster);
             this.Controls.Add(this.TeamLogo);
